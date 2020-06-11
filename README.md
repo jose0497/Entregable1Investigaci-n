@@ -30,7 +30,7 @@ $ git clone https://github.com/SU-USUARIO/SU-REPOSITORIO.
 
 # Paso a paso 🔧
 
-Lo primero es que el cliente esté registrado en el servidor y asi poder alojar los archivos, para ello se le asigna un nombre de usuario 
+Lo primero es que el cliente esté registrado en el servidor y asi poder alojar los archivos, para ello se le asigna un nombre de usuario una contraseña y una ruta de archivo 
 
 
 # Contruido con 🛠️
