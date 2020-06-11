@@ -34,7 +34,9 @@ Lo primero es que el cliente esté registrado en el servidor y asi poder alojar 
 
 El cliente primeramente, se va a loguear para poder hacer la transeferencia de los archivos, de otro modo no podra realizarlo, una vez que se loguea el usuario podra ya sea enviar o recibir archivos del servidor.
 
-Cuando se desea enviar 
+Cuando se desea enviar un archivo, el cliente selecciona el archivo que desea enviar al servidor, y despues pulsa un botón para subir el archivo.
+
+Si se desea ver los archivos que ya han sido a
 
 
 # Contruido con 🛠️
