@@ -36,7 +36,7 @@ El cliente primeramente, se va a loguear para poder hacer la transeferencia de l
 
 Cuando se desea enviar un archivo, el cliente selecciona el archivo que desea enviar al servidor, y despues pulsa un botón para subir el archivo.
 
-Si se desea ver los archivos que ya han sido a
+Si se desea ver los archivos que se encuentran el servidor el usuario selecciona la opción de ver archivos y esta los despliega automáticamnete. Ahora el usuario puede elegir cualquier archivo y descargarlo. 
 
 
 # Contruido con 🛠️
