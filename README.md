@@ -30,16 +30,16 @@ $ git clone https://github.com/SU-USUARIO/SU-REPOSITORIO.
 
 # Paso a paso 🔧
 
-Lo primero es que el cliente esté registrado en el servidor y asi poder alojar los archivos, para ello se le asigna un nombre de usuario una contraseña y una ruta de archivo(única para cada usuario).
+Lo primero es que el cliente esté registrado en el servidor y así poder alojar los archivos, para ello se le asigna un nombre de usuario una contraseña y una ruta de archivo(única para cada usuario) en el servidor.
 
-El cliente primeramente, se va a loguear para poder hacer la transeferencia de los archivos, de otro modo no podra realizarlo, una vez que se loguea el usuario podra ya sea enviar o recibir archivos del servidor.
+El cliente primeramente se  loguea para poder hacer la transferencia de los archivos, de otro modo no podrá realizarlo. Una vez que se loguea el usuario podrá ya sea enviar o recibir archivos del servidor.
 
-Cuando se desea enviar un archivo, el cliente selecciona el archivo que desea enviar al servidor, y despues pulsa un botón para subir el archivo.
+Cuando se desea enviar un archivo, el cliente selecciona el archivo que desea enviar al servidor, y después pulsa el botón "Subir" para enviar  el archivo.
 
-Si se desea ver los archivos que se encuentran el servidor el usuario selecciona la opción de ver archivos y esta los despliega automáticamnete. Ahora el usuario puede elegir cualquier archivo y descargarlo. 
+Si se desea ver los archivos que se encuentran en el servidor, el usuario selecciona la opción de ver archivos y esta los despliega automáticamente. Ahora el usuario puede elegir cualquier archivo y descargarlo. 
 
 
-# Contruido con 🛠️
+# Contruído con 🛠️
 
 Para la elaboración de este proyecto utilizamos las herramientas:
 
