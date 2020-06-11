@@ -40,3 +40,11 @@ Para la elaboración de este proyecto utilizamos las herramientas:
 - Para la codificación del proyecto.
 ### MYSQL 
 - Para la creación de la base de datos que utiliza el servidor para alojar la información de los clientes.
+
+# Autores ✒️
+
+Miembros que hicieron posible tener listo este proyecto:
+
+-José Hidalgo  - Codificación/Documentación.
+
+-Luis Hidalgo - Codificación/Documentación.
