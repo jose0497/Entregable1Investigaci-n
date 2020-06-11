@@ -45,7 +45,7 @@ Para la elaboración de este proyecto utilizamos las herramientas:
 
 ### NetBeans IDE 8.2 
 - Para la codificación del proyecto.
-### MYSQL 
+### MySQL 
 - Para la creación de la base de datos que utiliza el servidor para alojar la información de los clientes.
 
 # Autores ✒️
