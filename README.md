@@ -7,7 +7,30 @@ Para poder hacer  uso de este Software se debe tener algún IDE de desarrollo(pr
 
 # Comenzando 🚀
 
+1) En GitHub, visita la página principal del repositorio.
+2) Debajo del nombre del repositorio, da clic en Clonar o descargar.
+3) Abre la Git Bash.
+4) Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
+5) Escribe git clone, y luego pega la URL que copiaste antes.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
+
+6) Presiona Enter para crear tu clon local.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
+
+    "Cloning into `Spoon-Knife`.
+
+    remote: Counting objects: 10, done.
+
+    remote: Compressing objects: 100% (8/8), done.
+
+    remove: Total 10 (delta 1), reused 10 (delta 1).
+
+    Unpacking objects: 100% (10/10), done."
+
 # Paso a paso 🔧
+
+
 
 # Contruido con 🛠️
 
