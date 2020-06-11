@@ -1,4 +1,4 @@
-# FilesRepoJ&L
+# FilesRepoJ&L📤📥
 Nuestro proyecto FilesRepoJ&L está diseñado para usuarios que requieren almacenar archivos de manera remota con el fin de tenerlos en un lugar seguro y poder accesarlos cuando los necesitemos.
 Este software permite almacenar cualquier tipo de archivo en el servidor. El cliente debe seleccionar el archivo a subir y el servidor se encargará de asignarle una carpeta para el debido almacenamiento.
 
@@ -12,7 +12,7 @@ Para poder hacer  uso de este Software se debe tener algún IDE de desarrollo(pr
 3) Abre la Git Bash.
 4) Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
 5) Escribe git clone, y luego pega la URL que copiaste antes.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
+$ git clone https://github.com/SU-USUARIO/SU-REPOSITORIO.
 
 6) Presiona Enter para crear tu clon local.
 
