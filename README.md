@@ -30,6 +30,7 @@ $ git clone https://github.com/SU-USUARIO/SU-REPOSITORIO.
 
 # Paso a paso 🔧
 
+Lo primero es que el cliente este registrado
 
 
 # Contruido con 🛠️
